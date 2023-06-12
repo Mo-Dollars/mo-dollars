@@ -1,0 +1,16 @@
+ body{ 
+    background: maroon;
+ }
+ h1{
+    color:aliceblue
+ }
+ p{
+    background-color: blanchedalmond;
+    font-style: oblique;
+ }
+ #test{
+    color: red;
+    font-family: "consolas", sans-serif;
+    font-size: 10px;
+    font-style: italic;
+ }
